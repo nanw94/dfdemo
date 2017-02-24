@@ -60,7 +60,7 @@ public class VU_Android {
 	public void setUp() throws Exception {
 
 		// Set Chrome driver
-		System.setProperty("webdriver.chrome.driver", Util_VU.ChromedriverPath);
+		System.setProperty("webdriver.chrome.driver", "./browser-drivers/chromedriver.exe");
 
 		// Create object of DesiredCapabilities class and specify android
 		// platform
