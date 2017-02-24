@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="example.NewTest"/>
+      <class name="example.VU_Android"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
